@@ -1,7 +1,7 @@
 # ChatGPT Voice Assistant
 
 
-This project creates a voice assistant that uses OpenAI's Whisper API and ChatGPT to generate responses, the Google TTS API to convert the text response to speech, and Gradio for a simple user interface.
+This project is a ChatGPT voice assistant that takes user voice as input and responds with both text and voice output. It is built using Python and the OpenAI GPT-3 language model, along with Coqui TTS. Gradio is used for the user interface. The project is designed to run in a Google Colab notebook.
 
 # Setup
 
@@ -10,7 +10,6 @@ To run this project in Google Colab, you will need to have the following softwar
 1. [Google account](https://accounts.google.com/)
 2. [Google Colab notebook](https://colab.research.google.com/)
 3. [OpenAI API key](https://openai.com)
-4. Google Cloud API key
 
 # Conclusion
 
